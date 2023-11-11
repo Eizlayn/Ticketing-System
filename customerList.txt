@@ -1,0 +1,100 @@
+1001,Ali,101,Roller Coaster,25,3,2023-01-01
+1002,Abu,102,Ferris Wheel,20,2,2023-01-01
+1003,Kante,103,Merry-Go-Round,15,4,2023-01-02
+1004,Zunuddin,104,Haunted House,30,1,2023-01-02
+1005,Manjakali,105,Bumper Cars,10,5,2023-01-03
+1006,Khan,106,Water Slide,35,2,2023-01-03
+1007,Iskandar,107,Fun House,25,3,2023-01-04
+1008,Aswarni,108,Teacups,15,2,2023-01-04
+1009,Farid,109,Pirate Ship,40,1,2023-01-05
+1010,Hidayatun,110,Carousel,20,4,2023-01-05
+1011,Hamidi,111,Roller Coaster,25,3,2023-01-06
+1012,Noraini,112,Ferris Wheel,20,2,2023-01-06
+1013,Zahid,113,Merry-Go-Round,15,4,2023-01-07
+1014,Zainab,114,Haunted House,30,1,2023-01-07
+1015,Rizwan,115,Bumper Cars,10,5,2023-01-08
+1016,Yasmeen,116,Water Slide,35,2,2023-01-08
+1017,Soekarno,117,Fun House,25,3,2023-01-09
+1018,Azimah,118,Teacups,15,2,2023-01-09
+1019,Soep,119,Pirate Ship,40,1,2023-01-10
+1020,Ramlah,120,Carousel,20,4,2023-01-10
+1021,Mustafa,121,Roller Coaster,25,3,2023-01-11
+1022,Khadeeja,122,Ferris Wheel,20,2,2023-01-11
+1023,Mohd,123,Merry-Go-Round,15,4,2023-01-12
+1024,Suraya,124,Haunted House,30,6,2023-01-12
+1025,Rizal,125,Bumper Cars,10,5,2023-01-13
+1026,Nabilah,126,Water Slide,35,2,2023-01-13
+1027,Hakimi,127,Fun House,25,3,2023-01-14
+1028,Naimah,128,Teacups,15,2,2023-01-14
+1029,Puty,129,Pirate Ship,40,1,2023-01-15
+1030,Ayu,130,Carousel,20,4,2023-01-15
+1031,Khusyairi,131,Roller Coaster,25,3,2023-01-16
+1032,Aminah,132,Ferris Wheel,20,2,2023-01-16
+1033,Faisal,133,Merry-Go-Round,15,4,2023-01-17
+1034,Nor,134,Haunted House,30,7,2023-01-17
+1035,Beto,135,Bumper Cars,10,5,2023-01-18
+1036,Zaiton,136,Water Slide,35,2,2023-01-18
+1037,Kamalia,137,Fun House,25,3,2023-01-19
+1038,Aishah,138,Teacups,15,2,2023-01-19
+1039,Aminuddin,139,Pirate Ship,40,1,2023-01-20
+1040,Nadia,140,Carousel,20,6,2023-01-20
+1041,Amin,141,Roller Coaster,25,3,2023-01-21
+1042,Zahirah,142,Ferris Wheel,20,2,2023-01-21
+1043,Hafiz,143,Merry-Go-Round,15,4,2023-01-22
+1044,Noraa,144,Haunted House,30,1,2023-01-22
+1045,Rajagobal,145,Bumper Cars,10,5,2023-01-23
+1046,Salmah,146,Water Slide,35,2,2023-01-23
+1047,Zulhilmi,147,Fun House,25,3,2023-01-24
+1048,Jamal,148,Teacups,15,6,2023-01-24
+1049,Amirul,149,Pirate Ship,40,1,2023-01-25
+1050,Nor Azlina,150,Carousel,20,4,2023-01-25
+1051,Alia,151,Roller Coaster,25,3,2023-01-26
+1052,Siti,152,Ferris Wheel,20,2,2023-01-26
+1053,Ahmad,153,Merry-Go-Round,15,4,2023-01-27
+1054,Nor,154,Haunted House,30,1,2023-01-27
+1055,Kamal,155,Bumper Cars,10,5,2023-01-28
+1056,Aisyah,156,Water Slide,35,2,2023-01-28
+1057,Iskandar,157,Fun House,25,3,2023-01-29
+1058,Norizan,158,Teacups,15,2,2023-01-29
+1059,Farid,159,Pirate Ship,40,1,2023-01-30
+1060,Hidayah,160,Carousel,20,4,2023-01-30
+1061,Irene,161,Roller Coaster,25,3,2023-02-14
+1062,Jaafar,162,Ferris Wheel,20,9,2023-02-14
+1063,Kenit,163,Merry-Go-Round,15,6,2023-02-15
+1064,Laila,164,Haunted House,30,1,2023-02-15
+1065,Mariam,165,Bumper Cars,10,5,2023-02-16
+1066,Nabil,166,Water Slide,35,2,2023-02-16
+1067,Olivia,167,Fun House,25,3,2023-02-17
+1068,Pantas,168,Teacups,15,2,2023-02-17
+1069,Quratul,169,Pirate Ship,40,1,2023-02-18
+1070,Ryan,170,Carousel,20,4,2023-02-18
+1071,Sarah,171,Roller Coaster,25,9,2023-02-19
+1072,Tapir,172,Ferris Wheel,20,2,2023-02-19
+1073,Ubaidillah,173,Merry-Go-Round,15,4,2023-02-20
+1074,Markonah,174,Haunted House,30,1,2023-02-20
+1075,Wawa,175,Bumper Cars,10,5,2023-02-21
+1076,Omairah,176,Water Slide,35,2,2023-02-21
+1077,Yasmin,77,Fun House,25,3,2023-02-22
+1078,Zakaria,178,Teacups,15,2,2023-02-22
+1079,Amy,179,Pirate Ship,40,1,2023-02-23
+1080,Buntat,180,Carousel,20,4,2023-02-23
+1081,Camilia,181,Roller Coaster,25,3,2023-02-24
+1082,Amirul,182,Ferris Wheel,20,2,2023-02-24
+1083,Emily,183,Merry-Go-Round,15,4,2023-02-25
+1084,Syakir,184,Haunted House,30,1,2023-02-25
+1085,Kacak,185,Bumper Cars,10,5,2023-02-26
+1086,Harrice,86,Water Slide,35,8,2023-02-26
+1087,Irene,187,Fun House,25,3,2023-02-27
+1088,Harith,188,Teacups,15,2,2023-02-27
+1089,Kamaliah,189,Pirate Ship,40,1,2023-02-28
+1090,Eizlan,190,Carousel,20,4,2023-02-28
+1091,Mariah,191,Roller Coaster,25,3,2023-03-01
+1092,Khairil,192,Ferris Wheel,20,2,2023-03-01
+1093,Shadah,193,Merry-Go-Round,15,4,2023-03-02
+1094,Irdina,194,Haunted House,30,6,2023-03-02
+1095,Batrisyia,195,Bumper Cars,10,5,2023-03-03
+1096,Mimi,196,Water Slide,35,2,2023-03-03
+1097,Farah,197,Fun House,25,3,2023-03-04
+1098,Aizul,198,Teacups,15,2,2023-03-04
+1099,Farzana,199,Pirate Ship,40,6,2023-03-05
+1100,Binti,200,Carousel,20,4,2023-03-05
